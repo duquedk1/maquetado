@@ -1,0 +1,40 @@
+body{
+    background-color: #EEBDCC
+    
+}
+header{
+    border: 1px solid black;
+    background-color: #AFC6EE;
+    height: 100px;
+    margin: 50px 10px 10px 10px;
+}
+.container{
+    border: 1px solid black;
+    background-color: #AFC6EE;
+    height: 400px;
+    margin: 20px 10px 10px 10px;
+}
+#section1{
+    background-color: #EEE0AF;
+    border: 1px solid black;
+    height: 80px;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#section2{
+    background-color: #EEE0AF;
+    border: 1px solid black;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+footer{
+    
+    border: 1px solid black;
+    background-color: #AFC6EE;
+    height: 100px;
+    margin:20px 10px;
+   
+}
